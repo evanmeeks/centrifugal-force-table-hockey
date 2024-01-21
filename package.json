@@ -4,7 +4,7 @@
   "description": "Centrifugal Force Air Table Hockey POC",
   "main": "index.js",
   "scripts": {
-    "start": "npx serve public_html/index.html"
+    "start": "npx serve ."
   },
   "author": "",
   "license": "ISC"
