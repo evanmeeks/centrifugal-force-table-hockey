@@ -1,0 +1,11 @@
+{
+  "name": "c-force-hockey",
+  "version": "1.0.0",
+  "description": "Centrifugal Force Air Table Hockey POC",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx serve public_html/index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
